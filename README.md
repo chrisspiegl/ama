@@ -1,2 +1,23 @@
-# ama
-Questions for Chris.
+# Ask me anything!
+
+## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
+
+I get a lot of questions by email. This way anyone can read the answer!
+
+Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+
+### Guidelines
+
+- Ensure your question hasn't already been answered.
+- Use a succinct title and description.
+- Bugs & feature requests should be opened on the relevant issue tracker.
+- Be civil and polite.
+
+### Links
+
+- [Create your own AMA](https://github.com/sindresorhus/amas/blob/main/create-ama.md)
+- [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
+
+### Inspiration
+
+This AMA repo is inspired by [@sindresorhus](https://github.com/sindresorhus/ama) who is the creator and maintainer of countless NPM packages! I found his AMA recently and thought it's quite genious to use the GitHub Issues page for question answering.
